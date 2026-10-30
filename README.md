@@ -5,6 +5,7 @@
 This project implements a transaction-processing pipeline using PySpark, focusing on data skew diagnosis, salting, transaction validation, reliable publishing, and run-level observability.
 
 **Technology Stack:** Python, PySpark, Pandas, NumPy, Pytest
+[View the complete Google Colab development notebook](notebooks/YottaFlex_Skew_Aware_Transaction_Pipeline.ipynb)
 
 ## Key Objectives
 
