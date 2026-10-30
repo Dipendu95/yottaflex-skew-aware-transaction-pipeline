@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+*.crc
+*_preflight.csv
+data/processed/
+data/rejected/
+logs/
+data/raw/changed_retry_test.csv
+.DS_Store

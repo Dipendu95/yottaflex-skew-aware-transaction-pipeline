@@ -1,0 +1,4 @@
+transaction_id,merchant_id,customer_id,transaction_amount,payment_method,transaction_status,transaction_timestamp
+BAD_100,MER_0001,CUS_000001,500,UPI,SUCCESS
+BAD_101,MER_0002,"BROKEN,500,UPI,SUCCESS,2026-09-01T10:00:00Z
+BAD_102,MER_0003,CUS_000003,700,UPI,SUCCESS,2026-09-01T11:00:00Z,EXTRA_FIELD
